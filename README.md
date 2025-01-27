@@ -12,10 +12,21 @@ Une collection d'histoires pour enfants mettant en scène des animaux attachants
 - **Bambou le panda roux** : Un voyageur perdu des montagnes, passionné de cuisine (Histoire 2)
 
 ## Structure du Projet
-- `histoire.md` : Le texte de la première histoire - "Le Trésor de l'Amitié"
-- `histoire_2.md` : La deuxième histoire - "Le Mystérieux Visiteur"
-- `prompt_livre.md` : Guide de style et description détaillée des personnages et de l'univers
-- `carnet_explorateur.md` : Carnet d'activités interactif pour les enfants
+```
+📁 histoire_1/         # "Le Trésor de l'Amitié"
+   └── histoire.md     # Première histoire complète
+📁 histoire_2/         # "Le Mystérieux Visiteur"
+   └── histoire.md     # Deuxième histoire complète
+📄 prompt_livre.md     # Guide de style et description des personnages
+📄 carnet_explorateur.md  # Carnet d'activités interactif
+```
+
+## Résumé des Histoires
+### Histoire 1 : Le Trésor de l'Amitié
+Nos amis partent à l'aventure après avoir découvert un message mystérieux, traversant des épreuves qui leur font réaliser que leur plus grand trésor est leur amitié.
+
+### Histoire 2 : Le Mystérieux Visiteur
+Au retour de leur première aventure, les amis découvrent un visiteur surprise dans la maison de Lapin Blanc : Bambou, un panda roux perdu qui adore cuisiner. Ensemble, ils décident de l'aider à retrouver son chemin vers les montagnes.
 
 ## Modifications Majeures
 1. Version initiale avec Lapin Roux
@@ -24,9 +35,10 @@ Une collection d'histoires pour enfants mettant en scène des animaux attachants
 4. Modification de la description d'Henri l'hippopotame
 5. Ajout du carnet d'explorateur interactif
 6. Ajout de la deuxième histoire avec Bambou le panda roux
+7. Réorganisation du projet en dossiers distincts pour chaque histoire
 
 ## À Venir
-- Suite de l'histoire : "Le Voyage vers les Montagnes de Bambou"
+- Histoire 3 : "Le Voyage vers les Montagnes de Bambou"
 - Illustrations
 - Mise en page pour édition
 

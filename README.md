@@ -9,9 +9,11 @@ Une collection d'histoires pour enfants mettant en scène des animaux attachants
 - **Écureuil Gris** : Un ami curieux à la queue touffue
 - **Henri l'hippopotame** : Le sage du groupe, avec sa bonhomie habituelle
 - **Marguerite la dromadaire** : Une amie échappée du zoo, qui a peur des souris
+- **Bambou le panda roux** : Un voyageur perdu des montagnes, passionné de cuisine (Histoire 2)
 
 ## Structure du Projet
-- `histoire.md` : Le texte complet de l'histoire
+- `histoire.md` : Le texte de la première histoire - "Le Trésor de l'Amitié"
+- `histoire_2.md` : La deuxième histoire - "Le Mystérieux Visiteur"
 - `prompt_livre.md` : Guide de style et description détaillée des personnages et de l'univers
 - `carnet_explorateur.md` : Carnet d'activités interactif pour les enfants
 
@@ -21,9 +23,10 @@ Une collection d'histoires pour enfants mettant en scène des animaux attachants
 3. Ajout d'une accroche pour la suite de l'histoire
 4. Modification de la description d'Henri l'hippopotame
 5. Ajout du carnet d'explorateur interactif
+6. Ajout de la deuxième histoire avec Bambou le panda roux
 
 ## À Venir
-- Suite de l'histoire : "Le Mystérieux Visiteur"
+- Suite de l'histoire : "Le Voyage vers les Montagnes de Bambou"
 - Illustrations
 - Mise en page pour édition
 
